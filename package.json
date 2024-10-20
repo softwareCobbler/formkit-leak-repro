@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@formkit/vue": "^1.6.7",
-    "vue": "^3.5.10"
+    "vue": "3.5.12"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
